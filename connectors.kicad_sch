@@ -1,6 +1,6 @@
 (kicad_sch (version 20211123) (generator eeschema)
 
-  (uuid 7e519b67-211a-47bf-87df-d225a3e99cd1)
+  (uuid 670f5f72-0378-4792-9335-044dabd5f3dc)
 
   (paper "A4")
 
@@ -348,7 +348,7 @@
     (uuid 4249652c-6fdc-426e-97ce-0ddf39dcfc9e)
     (property "Reference" "J1" (id 0) (at 107.315 76.2 0))
     (property "Value" "Conn_01x04_Male" (id 1) (at 107.315 78.74 0))
-    (property "Footprint" "" (id 2) (at 106.68 83.82 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" (id 2) (at 106.68 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "I2C" (id 3) (at 109.22 91.44 0))
@@ -363,7 +363,7 @@
     (uuid 8d76f17e-d511-4687-8e19-37b8b3496cd7)
     (property "Reference" "J3" (id 0) (at 160.655 76.2 0))
     (property "Value" "Conn_01x09_Male" (id 1) (at 160.655 78.74 0))
-    (property "Footprint" "" (id 2) (at 160.02 91.44 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x09_P2.54mm_Vertical" (id 2) (at 160.02 91.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "GPIO" (id 3) (at 162.56 104.14 0))
@@ -383,7 +383,7 @@
     (uuid 8f177cb6-1950-4578-ba01-b665a8991d14)
     (property "Reference" "J2" (id 0) (at 130.175 76.2 0))
     (property "Value" "Conn_01x04_Male" (id 1) (at 130.175 78.74 0))
-    (property "Footprint" "" (id 2) (at 129.54 83.82 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" (id 2) (at 129.54 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "Serial UART" (id 3) (at 132.08 91.44 0))
@@ -398,7 +398,7 @@
     (uuid c953c96f-92f1-4260-a8d0-4600b00f24b3)
     (property "Reference" "J4" (id 0) (at 189.23 74.93 0))
     (property "Value" "Conn_02x03_Odd_Even" (id 1) (at 189.23 77.47 0))
-    (property "Footprint" "" (id 2) (at 187.96 83.82 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical" (id 2) (at 187.96 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "ICSP" (id 3) (at 190.5 91.44 0))
