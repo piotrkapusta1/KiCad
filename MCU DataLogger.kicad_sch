@@ -1580,6 +1580,10 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid f9d58b5a-0c0f-410e-8896-b81ff3accaec)
   )
+  (label "Vcc" (at 255.016 26.162 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid fbc87d0b-269f-46ba-949f-90f7c9a8f5c5)
+  )
 
   (symbol (lib_id "power:GND") (at 239.268 83.058 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
