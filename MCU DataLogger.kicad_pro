@@ -380,7 +380,6 @@
         "name": "Power",
         "nets": [
           "/D2",
-          "/Vcc",
           "GND"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
